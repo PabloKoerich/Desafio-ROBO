@@ -25,7 +25,8 @@
                 }
 
                 Console.WriteLine(posicaoX + " " + posicaoY + " " + direcao);
-            }
+            Console.ReadLine();
+        }
 
             private static void Mover()
             {
